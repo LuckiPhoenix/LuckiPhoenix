@@ -23,7 +23,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-# About Me  
+# About Me
 <table>
   <tr>
     <td>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </a>
 <a href="https://www.java.com/">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </a>
 <a href="https://www.sqlite.org/">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -85,7 +85,7 @@
 
 **Tools & IDEs**  
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
 <a href="https://developer.android.com/studio">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
@@ -99,7 +99,9 @@
 <a href="https://github.com/ohmyzsh/ohmyzsh">
   <img src="https://img.shields.io/badge/Zsh-6E5494?style=for-the-badge&logo=gnubash&logoColor=white" alt="Zsh" />
 </a>
-
+<a href="https://github.com/ohmyzsh/ohmyzsh">
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/>
+</a>
 
 **Design & Collaboration**  
 <a href="https://www.figma.com/">
