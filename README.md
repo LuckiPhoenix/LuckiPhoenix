@@ -24,25 +24,12 @@
 ```
 
 # About Me
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li> <strong>Real Name</strong>: Huỳnh Chí Hên</li>
+<li> <strong>Real Name</strong>: Huỳnh Chí Hên</li>
         <li> <strong>Gender</strong>: Male (He/Him)</li>
         <li> <strong>Occupation</strong>: Undergraduate</li>
         <li> <strong>School</strong>: University of Information Technology - Vietnam National University Ho Chi Minh City </li>
         <li> <strong>Major</strong>: Software Engineering</li>
         <li> <strong>Location</strong>: Ho Chi Minh City</li>
-      </ul>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rayriffy/apple-music-github-profile">
-        <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001358.49fc32f7264743549ebeaf2b2b5a22f2.0511" alt="Apple Music GitHub Profile" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 # Skills  
 <div align="center">
