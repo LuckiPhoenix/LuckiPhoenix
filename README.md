@@ -52,7 +52,6 @@
 ```
 
 ## 💻 Tech Stack
-
 <div align="center">
 
 ### 🔥 Primary Languages
@@ -75,7 +74,10 @@
 
 ### 📊 Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)](https://www.mongodb.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=3ECF8E)](https://supabase.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=003B57)](https://www.sqlite.org/)
+
 
 ### 🛠️ Development Tools
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
