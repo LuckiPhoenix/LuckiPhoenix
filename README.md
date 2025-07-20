@@ -13,17 +13,15 @@
 </div>
 
 ## 🎓 About Me
-```json
-{
-  "name": "Huỳnh Chí Hên",
-  "location": "Ho Chi Minh City, Vietnam",
-  "education": {
-    "university": "University of Information Technology",
-    "major": "Software Engineering"
-  },
-  "occupation": "Undergraduate",
-  "pronouns": "He/Him"
-}
+```ts
+// about-me.ts
+const user = {
+  name: "Huỳnh Chí Hên",
+  location: "Ho Chi Minh City, Vietnam",
+  university: "University of Information Technology",
+  major: "Software Engineering",
+  pronouns: "He/Him",
+};
 ```
 
 
@@ -38,6 +36,8 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)](https://developer.android.com/kotlin)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)](https://dart.dev)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)](https://developer.apple.com/swift/)
+[![React](https://img.shields.io/badge/React-374151?style=for-the-badge&logo=react&logoColor=cyan&labelColor=374151)](https://reactjs.org/)
+
 
 
 ### 🛠️ Frameworks & Libraries
@@ -49,6 +49,8 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)](https://flutter.dev)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343)](https://developer.apple.com/swiftui/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=4285F4)](https://developer.android.com/jetpack/compose)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)](https://nextjs.org/)
+
 
 ### 📊 Databases & Services
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)](https://www.mongodb.com/)
@@ -61,17 +63,10 @@
 
 ### 🛠️ Development Tools
 
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=57A143)](https://neovim.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)](https://www.docker.com/)
-[![Zsh](https://img.shields.io/badge/Zsh-6E5494?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=6E5494)](https://github.com/ohmyzsh/ohmyzsh)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white&labelColor=02303A)](https://gradle.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFCC00)](https://huggingface.co/)
-
-
-### 🎨 Design & Collaboration
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)](https://git-scm.com/)
 
 </div>
-
----
