@@ -23,6 +23,33 @@ const user = {
 };
 ```
 
+<table width="100%" align="center">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### My Featured Projects
+[![Idest](https://github-readme-stats.vercel.app/api/pin/?username=Idest-education&repo=Idest&bg_color=0,FF9C21,FF7A00&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/Idest-education/Idest)
+
+[![UIT-Go](https://github-readme-stats.vercel.app/api/pin/?username=Ama2352&repo=UIT-Go&bg_color=0,00203B,003A6B&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/Ama2352/UIT-Go)
+
+[![Coinhub](https://github-readme-stats.vercel.app/api/pin/?username=coinhub-uit&repo=mobile&bg_color=0,FFB624,FFD76A&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/coinhub-uit/mobile)
+
+[![Bookstore Management](https://github-readme-stats.vercel.app/api/pin/?username=AnhQuocHuynh&repo=Bookstore-Management&bg_color=0,0D1118,1F2933&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/AnhQuocHuynh/Bookstore-Management)
+
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### Listen With Me
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001358.49fc32f7264743549ebeaf2b2b5a22f2.0511)](https://music-profile.rayriffy.com)
+
+</td>
+
+</tr>
+</table>
 
 ## 💻 Tech Stack
 <div align="center">
