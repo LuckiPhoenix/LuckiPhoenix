@@ -16,10 +16,11 @@
 // about-me.ts
 const user = {
   name: "Huỳnh Chí Hên",
+  role: "SWE",
   location: "Ho Chi Minh City, Vietnam",
   university: "University of Information Technology",
-  major: "Software Engineering",
   pronouns: "He/Him",
+  employed: false,
 };
 ```
 
